@@ -1,0 +1,129 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:2:1-45:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\5f6119c0d52e9f3b79ab0d16359e272b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\4a8be96dcf5ef06c20cef383a4adf0a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\cfa7d33f13fd42c80a6f5be6df96b6e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\32d5a86d5cca39b0031d0f2e141c383e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\38d4d755e50ba9288121743c0c31e758\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0b5a8bb71ec641a3d20d2bc28db3786a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d7d79ce29da6381a2eb4f154dbcdbdbf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a96b9fbb20635dc500c9afbbd54bfb97\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\15b8c770e4e191e00f0ff14b69b78b79\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ab37dfd2e40ca1dc2c95f3bb8f0e613b\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:3:1-29
+		INJECTED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:5:1-26
+		INJECTED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:4:1-24
+		INJECTED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:7:1-80
+	android:name
+		ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:7:18-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:9:1-77
+	android:name
+		ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:9:18-74
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:11:1-76
+	android:name
+		ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:11:18-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:12:1-71
+	android:name
+		ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:12:18-68
+uses-permission#android.permission.INTERNET
+ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:13:1-63
+	android:name
+		ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:13:18-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:14:1-75
+	android:name
+		ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:14:18-72
+application
+ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:16:1-43:15
+	android:label
+		ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:19:5-37
+	android:icon
+		ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:18:5-41
+	android:allowBackup
+		ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:17:5-31
+	android:theme
+		ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:20:5-63
+meta-data#android.max_aspect
+ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:23:5-25:31
+	android:value
+		ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:25:9-28
+	android:name
+		ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:24:9-42
+activity#com.example.wuziqi.MainActivity
+ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:27:5-36:16
+	android:screenOrientation
+		ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:30:9-45
+	android:label
+		ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:29:9-41
+	android:name
+		ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:28:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:31:9-35:25
+action#android.intent.action.MAIN
+ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:32:13-65
+	android:name
+		ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:32:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:34:13-73
+	android:name
+		ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:34:23-70
+activity#com.example.wuziqi.ViewPagerActivity
+ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:38:5-41:16
+	android:name
+		ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml:39:9-42
+uses-sdk
+INJECTED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml
+INJECTED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\5f6119c0d52e9f3b79ab0d16359e272b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\5f6119c0d52e9f3b79ab0d16359e272b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\4a8be96dcf5ef06c20cef383a4adf0a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\4a8be96dcf5ef06c20cef383a4adf0a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\cfa7d33f13fd42c80a6f5be6df96b6e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\cfa7d33f13fd42c80a6f5be6df96b6e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\32d5a86d5cca39b0031d0f2e141c383e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\32d5a86d5cca39b0031d0f2e141c383e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\38d4d755e50ba9288121743c0c31e758\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\38d4d755e50ba9288121743c0c31e758\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0b5a8bb71ec641a3d20d2bc28db3786a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0b5a8bb71ec641a3d20d2bc28db3786a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d7d79ce29da6381a2eb4f154dbcdbdbf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d7d79ce29da6381a2eb4f154dbcdbdbf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a96b9fbb20635dc500c9afbbd54bfb97\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a96b9fbb20635dc500c9afbbd54bfb97\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\15b8c770e4e191e00f0ff14b69b78b79\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\15b8c770e4e191e00f0ff14b69b78b79\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ab37dfd2e40ca1dc2c95f3bb8f0e613b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\½²ÂE®i\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ab37dfd2e40ca1dc2c95f3bb8f0e613b\AndroidManifest.xml:20:5-44
+INJECTED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml
+INJECTED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml
+		ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml
+		ADDED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\android\WuZiQi\app\src\main\AndroidManifest.xml
